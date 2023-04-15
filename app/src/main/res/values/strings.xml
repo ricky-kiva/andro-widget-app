@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Widget App</string>
-    <string name="appwidget_text">EXAMPLE</string>
+    <string name="appwidget_text">Widget App</string>
     <string name="add_widget">Add widget</string>
-    <string name="app_widget_description">This is an app widget description</string>
+    <string name="app_widget_description">Gives you random number</string>
+    <string name="instruction_add_widget">Please dd widget on Home screen manually.</string>
 </resources>
